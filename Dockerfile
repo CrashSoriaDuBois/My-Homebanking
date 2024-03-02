@@ -1,4 +1,4 @@
-FROM gradle:8.6.0-jdk11-focal
+FROM gradle:8.2.1-jdk11-alpine
 
 COPY . .
 
